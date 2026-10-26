@@ -1,0 +1,366 @@
+/* Exact icons from the original text editor. */
+:is(.toolbar, .floating-text-format-popup, .dropdown, .typeahead-popover) :is(i, span).undo {
+  -webkit-mask-image: none !important;
+  mask-image: none !important;
+  background: transparent url('./images/cu-icons/22bcf.svg') center / contain no-repeat !important;
+  width: 18px !important; height: 18px !important; opacity: 1;
+}
+:is(.toolbar, .floating-text-format-popup, .dropdown, .typeahead-popover) :is(i, span).redo {
+  -webkit-mask-image: none !important;
+  mask-image: none !important;
+  background: transparent url('./images/cu-icons/c1465.svg') center / contain no-repeat !important;
+  width: 18px !important; height: 18px !important; opacity: 1;
+}
+:is(.toolbar, .floating-text-format-popup, .dropdown, .typeahead-popover) :is(i, span).bold {
+  -webkit-mask-image: none !important;
+  mask-image: none !important;
+  background: transparent url('./images/cu-icons/40e71.svg') center / contain no-repeat !important;
+  width: 18px !important; height: 18px !important; opacity: 1;
+}
+:is(.toolbar, .floating-text-format-popup, .dropdown, .typeahead-popover) :is(i, span).italic {
+  -webkit-mask-image: none !important;
+  mask-image: none !important;
+  background: transparent url('./images/cu-icons/bb221.svg') center / contain no-repeat !important;
+  width: 18px !important; height: 18px !important; opacity: 1;
+}
+:is(.toolbar, .floating-text-format-popup, .dropdown, .typeahead-popover) :is(i, span).underline {
+  -webkit-mask-image: none !important;
+  mask-image: none !important;
+  background: transparent url('./images/cu-icons/7eb0a.svg') center / contain no-repeat !important;
+  width: 18px !important; height: 18px !important; opacity: 1;
+}
+:is(.toolbar, .floating-text-format-popup, .dropdown, .typeahead-popover) :is(i, span).strikethrough {
+  -webkit-mask-image: none !important;
+  mask-image: none !important;
+  background: transparent url('./images/cu-icons/337ab.svg') center / contain no-repeat !important;
+  width: 18px !important; height: 18px !important; opacity: 1;
+}
+:is(.toolbar, .floating-text-format-popup, .dropdown, .typeahead-popover) :is(i, span).subscript {
+  -webkit-mask-image: none !important;
+  mask-image: none !important;
+  background: transparent url('./images/cu-icons/39eec.svg') center / contain no-repeat !important;
+  width: 18px !important; height: 18px !important; opacity: 1;
+}
+:is(.toolbar, .floating-text-format-popup, .dropdown, .typeahead-popover) :is(i, span).superscript {
+  -webkit-mask-image: none !important;
+  mask-image: none !important;
+  background: transparent url('./images/cu-icons/ddd52.svg') center / contain no-repeat !important;
+  width: 18px !important; height: 18px !important; opacity: 1;
+}
+:is(.toolbar, .floating-text-format-popup, .dropdown, .typeahead-popover) :is(i, span).code {
+  -webkit-mask-image: none !important;
+  mask-image: none !important;
+  background: transparent url('./images/cu-icons/e3d29.svg') center / contain no-repeat !important;
+  width: 18px !important; height: 18px !important; opacity: 1;
+}
+:is(.toolbar, .floating-text-format-popup, .dropdown, .typeahead-popover) :is(i, span).link {
+  -webkit-mask-image: none !important;
+  mask-image: none !important;
+  background: transparent url('./images/cu-icons/d6a4b.svg') center / contain no-repeat !important;
+  width: 18px !important; height: 18px !important; opacity: 1;
+}
+:is(.toolbar, .floating-text-format-popup, .dropdown, .typeahead-popover) :is(i, span).add-comment {
+  -webkit-mask-image: none !important;
+  mask-image: none !important;
+  background: transparent url('./images/cu-icons/ef127.svg') center / contain no-repeat !important;
+  width: 18px !important; height: 18px !important; opacity: 1;
+}
+:is(.toolbar, .floating-text-format-popup, .dropdown, .typeahead-popover) :is(i, span).font-color {
+  -webkit-mask-image: none !important;
+  mask-image: none !important;
+  background: transparent url('./images/cu-icons/abf18.svg') center / contain no-repeat !important;
+  width: 18px !important; height: 18px !important; opacity: 1;
+}
+:is(.toolbar, .floating-text-format-popup, .dropdown, .typeahead-popover) :is(i, span).bg-color {
+  -webkit-mask-image: none !important;
+  mask-image: none !important;
+  background: transparent url('./images/cu-icons/c7677.svg') center / contain no-repeat !important;
+  width: 18px !important; height: 18px !important; opacity: 1;
+}
+:is(.toolbar, .floating-text-format-popup, .dropdown, .typeahead-popover) :is(i, span).highlight {
+  -webkit-mask-image: none !important;
+  mask-image: none !important;
+  background: transparent url('./images/cu-icons/c7677.svg') center / contain no-repeat !important;
+  width: 18px !important; height: 18px !important; opacity: 1;
+}
+:is(.toolbar, .floating-text-format-popup, .dropdown, .typeahead-popover) :is(i, span).clear {
+  -webkit-mask-image: none !important;
+  mask-image: none !important;
+  background: transparent url('./images/cu-icons/9ec5a.svg') center / contain no-repeat !important;
+  width: 18px !important; height: 18px !important; opacity: 1;
+}
+:is(.toolbar, .floating-text-format-popup, .dropdown, .typeahead-popover) :is(i, span).paragraph {
+  -webkit-mask-image: none !important;
+  mask-image: none !important;
+  background: transparent url('./images/cu-icons/bbf44.svg') center / contain no-repeat !important;
+  width: 18px !important; height: 18px !important; opacity: 1;
+}
+:is(.toolbar, .floating-text-format-popup, .dropdown, .typeahead-popover) :is(i, span).h1 {
+  -webkit-mask-image: none !important;
+  mask-image: none !important;
+  background: transparent url('./images/cu-icons/8f12c.svg') center / contain no-repeat !important;
+  width: 18px !important; height: 18px !important; opacity: 1;
+}
+:is(.toolbar, .floating-text-format-popup, .dropdown, .typeahead-popover) :is(i, span).h2 {
+  -webkit-mask-image: none !important;
+  mask-image: none !important;
+  background: transparent url('./images/cu-icons/8f12c.svg') center / contain no-repeat !important;
+  width: 18px !important; height: 18px !important; opacity: 1;
+}
+:is(.toolbar, .floating-text-format-popup, .dropdown, .typeahead-popover) :is(i, span).h3 {
+  -webkit-mask-image: none !important;
+  mask-image: none !important;
+  background: transparent url('./images/cu-icons/8f12c.svg') center / contain no-repeat !important;
+  width: 18px !important; height: 18px !important; opacity: 1;
+}
+:is(.toolbar, .floating-text-format-popup, .dropdown, .typeahead-popover) :is(i, span).h4 {
+  -webkit-mask-image: none !important;
+  mask-image: none !important;
+  background: transparent url('./images/cu-icons/8f12c.svg') center / contain no-repeat !important;
+  width: 18px !important; height: 18px !important; opacity: 1;
+}
+:is(.toolbar, .floating-text-format-popup, .dropdown, .typeahead-popover) :is(i, span).h5 {
+  -webkit-mask-image: none !important;
+  mask-image: none !important;
+  background: transparent url('./images/cu-icons/8f12c.svg') center / contain no-repeat !important;
+  width: 18px !important; height: 18px !important; opacity: 1;
+}
+:is(.toolbar, .floating-text-format-popup, .dropdown, .typeahead-popover) :is(i, span).h6 {
+  -webkit-mask-image: none !important;
+  mask-image: none !important;
+  background: transparent url('./images/cu-icons/8f12c.svg') center / contain no-repeat !important;
+  width: 18px !important; height: 18px !important; opacity: 1;
+}
+:is(.toolbar, .floating-text-format-popup, .dropdown, .typeahead-popover) :is(i, span).bullet-list {
+  -webkit-mask-image: none !important;
+  mask-image: none !important;
+  background: transparent url('./images/cu-icons/65f9f.svg') center / contain no-repeat !important;
+  width: 18px !important; height: 18px !important; opacity: 1;
+}
+:is(.toolbar, .floating-text-format-popup, .dropdown, .typeahead-popover) :is(i, span).numbered-list {
+  -webkit-mask-image: none !important;
+  mask-image: none !important;
+  background: transparent url('./images/cu-icons/list-ordered.svg') center / contain no-repeat !important;
+  width: 18px !important; height: 18px !important; opacity: 1;
+}
+:is(.toolbar, .floating-text-format-popup, .dropdown, .typeahead-popover) :is(i, span).check-list {
+  -webkit-mask-image: none !important;
+  mask-image: none !important;
+  background: transparent url('./images/cu-icons/615c2.svg') center / contain no-repeat !important;
+  width: 18px !important; height: 18px !important; opacity: 1;
+}
+:is(.toolbar, .floating-text-format-popup, .dropdown, .typeahead-popover) :is(i, span).quote {
+  -webkit-mask-image: none !important;
+  mask-image: none !important;
+  background: transparent url('./images/cu-icons/quote.svg') center / contain no-repeat !important;
+  width: 18px !important; height: 18px !important; opacity: 1;
+}
+:is(.toolbar, .floating-text-format-popup, .dropdown, .typeahead-popover) :is(i, span).horizontal-rule {
+  -webkit-mask-image: none !important;
+  mask-image: none !important;
+  background: transparent url('./images/cu-icons/85a75.svg') center / contain no-repeat !important;
+  width: 18px !important; height: 18px !important; opacity: 1;
+}
+:is(.toolbar, .floating-text-format-popup, .dropdown, .typeahead-popover) :is(i, span).image {
+  -webkit-mask-image: none !important;
+  mask-image: none !important;
+  background: transparent url('./images/cu-icons/b298a.svg') center / contain no-repeat !important;
+  width: 18px !important; height: 18px !important; opacity: 1;
+}
+:is(.toolbar, .floating-text-format-popup, .dropdown, .typeahead-popover) :is(i, span).table {
+  -webkit-mask-image: none !important;
+  mask-image: none !important;
+  background: transparent url('./images/cu-icons/3df0f.svg') center / contain no-repeat !important;
+  width: 18px !important; height: 18px !important; opacity: 1;
+}
+:is(.toolbar, .floating-text-format-popup, .dropdown, .typeahead-popover) :is(i, span).columns {
+  -webkit-mask-image: none !important;
+  mask-image: none !important;
+  background: transparent url('./images/cu-icons/39370.svg') center / contain no-repeat !important;
+  width: 18px !important; height: 18px !important; opacity: 1;
+}
+:is(.toolbar, .floating-text-format-popup, .dropdown, .typeahead-popover) :is(i, span).equation {
+  -webkit-mask-image: none !important;
+  mask-image: none !important;
+  background: transparent url('./images/cu-icons/formula.svg') center / contain no-repeat !important;
+  width: 18px !important; height: 18px !important; opacity: 1;
+}
+:is(.toolbar, .floating-text-format-popup, .dropdown, .typeahead-popover) :is(i, span).caret-right {
+  -webkit-mask-image: none !important;
+  mask-image: none !important;
+  background: transparent url('./images/cu-icons/fa5d6.svg') center / contain no-repeat !important;
+  width: 18px !important; height: 18px !important; opacity: 1;
+}
+:is(.toolbar, .floating-text-format-popup, .dropdown, .typeahead-popover) :is(i, span).youtube {
+  -webkit-mask-image: none !important;
+  mask-image: none !important;
+  background: transparent url('./images/cu-icons/1e481.svg') center / contain no-repeat !important;
+  width: 18px !important; height: 18px !important; opacity: 1;
+}
+:is(.toolbar, .floating-text-format-popup, .dropdown, .typeahead-popover) :is(i, span).dropdown-more {
+  -webkit-mask-image: none !important;
+  mask-image: none !important;
+  background: transparent url('./images/cu-icons/b27f0.svg') center / contain no-repeat !important;
+  width: 18px !important; height: 18px !important; opacity: 1;
+}
+:is(.toolbar, .floating-text-format-popup, .dropdown, .typeahead-popover) :is(i, span).uppercase {
+  -webkit-mask-image: none !important;
+  mask-image: none !important;
+  background: transparent url('./images/cu-icons/b27f0.svg') center / contain no-repeat !important;
+  width: 18px !important; height: 18px !important; opacity: 1;
+}
+:is(.toolbar, .floating-text-format-popup, .dropdown, .typeahead-popover) :is(i, span).lowercase {
+  -webkit-mask-image: none !important;
+  mask-image: none !important;
+  background: transparent url('./images/cu-icons/b27f0.svg') center / contain no-repeat !important;
+  width: 18px !important; height: 18px !important; opacity: 1;
+}
+:is(.toolbar, .floating-text-format-popup, .dropdown, .typeahead-popover) :is(i, span).capitalize {
+  -webkit-mask-image: none !important;
+  mask-image: none !important;
+  background: transparent url('./images/cu-icons/b27f0.svg') center / contain no-repeat !important;
+  width: 18px !important; height: 18px !important; opacity: 1;
+}
+:is(.toolbar, .floating-text-format-popup, .dropdown, .typeahead-popover) :is(i, span).left-align {
+  -webkit-mask-image: none !important;
+  mask-image: none !important;
+  background: transparent url('./images/cu-icons/f6f0a.svg') center / contain no-repeat !important;
+  width: 18px !important; height: 18px !important; opacity: 1;
+}
+:is(.toolbar, .floating-text-format-popup, .dropdown, .typeahead-popover) :is(i, span).center-align {
+  -webkit-mask-image: none !important;
+  mask-image: none !important;
+  background: transparent url('./images/cu-icons/image-align-center.svg') center / contain no-repeat !important;
+  width: 18px !important; height: 18px !important; opacity: 1;
+}
+:is(.toolbar, .floating-text-format-popup, .dropdown, .typeahead-popover) :is(i, span).right-align {
+  -webkit-mask-image: none !important;
+  mask-image: none !important;
+  background: transparent url('./images/cu-icons/image-align-right.svg') center / contain no-repeat !important;
+  width: 18px !important; height: 18px !important; opacity: 1;
+}
+:is(.toolbar, .floating-text-format-popup, .dropdown, .typeahead-popover) :is(i, span).justify-align {
+  -webkit-mask-image: none !important;
+  mask-image: none !important;
+  background: transparent url('./images/cu-icons/f6f0a.svg') center / contain no-repeat !important;
+  width: 18px !important; height: 18px !important; opacity: 1;
+}
+:is(.toolbar, .floating-text-format-popup, .dropdown, .typeahead-popover) :is(i, span).indent {
+  -webkit-mask-image: none !important;
+  mask-image: none !important;
+  background: transparent url('./images/cu-icons/f6f0a.svg') center / contain no-repeat !important;
+  width: 18px !important; height: 18px !important; opacity: 1;
+}
+:is(.toolbar, .floating-text-format-popup, .dropdown, .typeahead-popover) :is(i, span).outdent {
+  -webkit-mask-image: none !important;
+  mask-image: none !important;
+  background: transparent url('./images/cu-icons/f6f0a.svg') center / contain no-repeat !important;
+  width: 18px !important; height: 18px !important; opacity: 1;
+}
+:is(.toolbar, .floating-text-format-popup, .dropdown, .typeahead-popover) :is(i, span).chevron-down {
+  -webkit-mask-image: none !important;
+  mask-image: none !important;
+  background: transparent url('./images/cu-icons/cd407.svg') center / contain no-repeat !important;
+  width: 18px !important; height: 18px !important; opacity: 1;
+}
+:is(.toolbar, .floating-text-format-popup, .dropdown, .typeahead-popover) :is(i, span).plus {
+  -webkit-mask-image: none !important;
+  mask-image: none !important;
+  background: transparent url('./images/cu-icons/3da56.svg') center / contain no-repeat !important;
+  width: 18px !important; height: 18px !important; opacity: 1;
+}
+:is(.toolbar, .floating-text-format-popup, .dropdown, .typeahead-popover) :is(i, span).add-icon {
+  -webkit-mask-image: none !important;
+  mask-image: none !important;
+  background: transparent url('./images/cu-icons/3da56.svg') center / contain no-repeat !important;
+  width: 18px !important; height: 18px !important; opacity: 1;
+}
+:is(.toolbar, .floating-text-format-popup, .dropdown, .typeahead-popover) :is(i, span).minus-icon {
+  -webkit-mask-image: none !important;
+  mask-image: none !important;
+  background: transparent url('./images/cu-icons/85a75.svg') center / contain no-repeat !important;
+  width: 18px !important; height: 18px !important; opacity: 1;
+}
+.toolbar .block-controls :is(i, span).block-type {
+  background-image: url('./images/cu-icons/527e2.svg') !important;
+}
+.toolbar .alignment :is(i, span).icon:not(.chevron-down) {
+  background-image: url('./images/cu-icons/f6f0a.svg') !important;
+}
+.toolbar i.chevron-down, .dropdown i.chevron-down {
+  width: 12px !important; height: 12px !important;
+}
+/* Lexical places the menu SPACE=4 px from the anchor. A -64px left offset
+   leaves a 52px control group and an 8px gap outside the block boundary. */
+.draggable-block-menu {
+  left: -64px;
+  width: 52px;
+  height: 24px;
+  padding: 0;
+  gap: 4px;
+  align-items: center;
+  box-sizing: border-box;
+  background: transparent;
+  z-index: 10;
+}
+.draggable-block-menu .icon {
+  width: 24px;
+  height: 24px;
+  flex: 0 0 24px;
+  opacity: 1;
+  border: 0;
+  padding: 2px;
+  border-radius: 4px;
+  box-sizing: border-box;
+  background: transparent;
+  -webkit-mask-image: none;
+  mask-image: none;
+}
+.draggable-block-menu .icon-plus {
+  background: transparent url('./images/cu-icons/3da56.svg') center / 20px 20px no-repeat;
+}
+.draggable-block-menu .drag-handle {display: flex; align-items: center; justify-content: center; cursor: grab;}
+.draggable-block-menu .drag-dots {
+  width: 12px; height: 18px;
+  background: radial-gradient(circle, #a2a2a2 1.5px, transparent 1.6px) 0 0 / 6px 6px;
+  pointer-events: none;
+}
+.draggable-block-menu .icon:hover {background-color: #f1f2f5;}
+
+.toolbar i.minus-icon {background: none !important; font: 20px/18px Inter, sans-serif; color: #5a5e62;}
+.toolbar i.minus-icon::before {content: "−";}
+
+/* Include the empty visual gap in the menu hit area. Lexical keeps the
+   active block while the pointer is on this menu, including its padding. */
+.draggable-block-menu {
+  width: 60px;
+  padding-right: 8px;
+}
+
+/* Match the original toolbar order, density and icon-only controls. */
+.toolbar.cu-original-toolbar {
+  height: 40px; min-height: 40px; box-sizing: border-box;
+  gap: 12px; padding: 8px; flex-wrap: nowrap; overflow-x: auto;
+  justify-content: center;
+}
+.cu-original-toolbar .toolbar-item {
+  width: 24px; min-width: 24px; height: 24px; min-height: 24px;
+  padding: 3px; margin: 0; flex: 0 0 24px; justify-content: center;
+}
+.cu-original-toolbar .dropdown-button-text,
+.cu-original-toolbar .toolbar-item .chevron-down {display: none;}
+.cu-original-toolbar .divider {
+  height: 24px; width: 1px; min-width: 1px; margin: 0; flex: 0 0 1px;
+}
+.cu-original-toolbar .list-control .icon {
+  background-image: url('./images/cu-icons/615c2.svg') !important;
+}
+@media(max-width:900px){.toolbar.cu-original-toolbar{justify-content:flex-start;}}
+
+/* Icon-only buttons must not reserve space for the Playground labels. */
+.toolbar.cu-original-toolbar .dropdown-button-text,
+.toolbar.cu-original-toolbar .toolbar-item .chevron-down {display:none !important;}
+.toolbar.cu-original-toolbar :is(i, span).icon,
+.toolbar.cu-original-toolbar i.format {
+  flex:0 0 18px; margin:0 !important;
+}
